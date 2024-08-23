@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+*.pyc
+*.pyc
+__pycache__
+*sif
+*.Rproj
+.nextflow*
+tmp/
+work/
+test/
+.DS_Store
+*.h5ad
+*.pdf
+*.svg
+*.png
+*.csv
+*.log
